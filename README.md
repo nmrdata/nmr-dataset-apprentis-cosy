@@ -1,6 +1,6 @@
 This series of exercises is provided by Noah Mayor and Julia Villiger, trainee chemistry laboratory assistants, at the Ecole Polytechnique Fédérale de Lausanne (EPFL).
 
-For each sample the COS spectrum is provided.
+For each sample the COSY spectrum is provided.
 
 It is divided into 3 series in order to show students the different NMR experiments:
 
