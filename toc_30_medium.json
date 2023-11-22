@@ -1,0 +1,52 @@
+[
+  {
+    "id": "skJzZbfOw3FW6nH6UA5XcGOM8vU=",
+    "mf": "C10H12O5",
+    "idCodeHash": "a59e722af9924e3651eba676a3f15b56",
+    "file": "./30_medium/160_Exercise 1/index.json",
+    "title": "Exercise 1",
+    "selected": true
+  },
+  {
+    "id": "/reqTGTJ0F1U9r6tHb7LT0XRRDU=",
+    "mf": "C9H8O2",
+    "idCodeHash": "d4c4dbf08229ad460b7ec8b69decb1f7",
+    "file": "./30_medium/250_Exercise 2/index.json",
+    "title": "Exercise 2"
+  },
+  {
+    "id": "MItOptSabpcTPM98azsKeiV7uDA=",
+    "mf": "C14H12O2",
+    "idCodeHash": "d4a67a5c38b737cf9e27d23ee15624a8",
+    "file": "./30_medium/310_Exercise 3/index.json",
+    "title": "Exercise 3"
+  },
+  {
+    "id": "v9M2q46z8sadXT8KV/Wug6h8vtg=",
+    "mf": "C5H8O",
+    "idCodeHash": "a9b01cde73c5b4f8c0256f22b40b9e93",
+    "file": "./30_medium/340_Exercise 4/index.json",
+    "title": "Exercise 4"
+  },
+  {
+    "id": "UyaAV+ETqXMj3fwFK8lBQhv0V8w=",
+    "mf": "C13H10",
+    "idCodeHash": "b3360d31df86c95e251ed1887e81780c",
+    "file": "./30_medium/350_Exercise 5/index.json",
+    "title": "Exercise 5"
+  },
+  {
+    "id": "l1A0vB0s0MWUqrduGXxAxz2DK1Q=",
+    "mf": "C9H10O3",
+    "idCodeHash": "dfc2102009962f70d934633ffba3e04c",
+    "file": "./30_medium/360_Exercise 6/index.json",
+    "title": "Exercise 6"
+  },
+  {
+    "id": "IdeV/gBV6uDFCjTGAZhsUMnjkGo=",
+    "mf": "C8H10O2",
+    "idCodeHash": "ff819403d44521ecd56ee704a71320c7",
+    "file": "./30_medium/370_Exercise 7/index.json",
+    "title": "Exercise 7"
+  }
+]
